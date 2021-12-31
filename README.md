@@ -3,6 +3,11 @@
 **Approach of the Solution**
 
 
+
+**Instructions on how to Import the project if using Eclipse IDE**
+
+
+
 **Output of the Promotion Engine Solution**
 Printing Unit Prices
 ID: A Price: 50.0 Quantity: 1
@@ -41,3 +46,4 @@ ID: D Price: 15.0 Quantity: 1
 Printing Order Value Total from resources/scenarioD.csv after Applying Promotion
 Cart Total: 205.0
 
+**IDE used to develop the solution: Eclipse**
