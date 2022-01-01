@@ -12,6 +12,8 @@ The solution uses PromotionEngine to run the program. It takes the promotion rul
 **Instructions on how to Import the project if using Eclipse IDE**
 When using IDE's to use the above solution please use import the code function of the IDE.
 
+**Unit Test Coverage: JUnit test coverage for the whole project is around 89%**
+
 **Output of the Promotion Engine Solution**
 Printing Unit Prices
 ID: A Price: 50.0 Quantity: 1
