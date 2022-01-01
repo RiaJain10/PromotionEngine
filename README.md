@@ -6,8 +6,8 @@ The promotion engine will calculate the total order value after applying the 2 p
 The promotions will be mutually exclusive; in other words if one is applied the other promotions will not apply.
 
 **Approach of the Solution**
-Our solution reads the promotion rules and SKU ids with price data in the form of csv files.It takes the user input scenario in the form of csv.The engine processes the cart and returns the total order value after applying the promotion.
-The solution uses PromotionEngine to run the program.It takes the promotion rules and uses Rule and RuleBank class to manage it.It also uses SKU and SKUBank class to handle SKU data.It stores user selection in the form of Cart class.Then, the solution uses PromotionCalc to apply the promotions and return the total order value.The method checks and stores all the applicable promotions product wise and then applies those promotions to calculate the final value.
+Our solution reads the promotion rules and SKU ids with price data in the form of csv files. It takes the user input scenario in the form of csv. The engine processes the cart and returns the total order value after applying the promotion.
+The solution uses PromotionEngine to run the program. It takes the promotion rules and uses Rule and RuleBank class to manage it. It also uses SKU and SKUBank class to handle SKU data. It stores user selection in the form of Cart class. Then, the solution uses PromotionCalc to apply the promotions and return the total order value. The method checks and stores all the applicable promotions product wise and then applies those promotions to calculate the final value.
 
 **Instructions on how to Import the project if using Eclipse IDE**
 When using IDE's to use the above solution please use import the code function of the IDE.
