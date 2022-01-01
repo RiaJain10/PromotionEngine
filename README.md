@@ -51,5 +51,3 @@ ID: C Price: 20.0 Quantity: 1
 ID: D Price: 15.0 Quantity: 1
 Printing Order Value Total from resources/scenarioD.csv after Applying Promotion
 Cart Total: 205.0
-
-**IDE used to develop the solution is Eclipse**
